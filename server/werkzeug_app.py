@@ -13,5 +13,6 @@ if __name__ == '__main__':
     run_simple(
         hostname='localhost', 
         port=5000, 
-        application=application)
+        application=application
+    )
     
